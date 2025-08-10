@@ -2,8 +2,6 @@
 
 https://hl7.org/fhir/
 
-# FHIR Week1 – Patient / Observation / MedicationRequest
-
 ## 1. Overview of FHIR
 - **Purpose**: Enable interoperability of healthcare data across systems.
 - **Resource**: The fundamental unit of FHIR data (e.g., Patient, Observation, Medication).
