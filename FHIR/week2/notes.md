@@ -1,9 +1,3 @@
-Got it 👍
-Here’s your **`notes.md`** for Week 2 in English, ready to drop into your GitHub repo.
-
----
-
-````markdown
 # Week 2 – FHIR JSON & REST API (Patient Resource)
 
 ## 1. Learning Objectives
