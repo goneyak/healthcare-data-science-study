@@ -1,4 +1,4 @@
-# Week1 – Patient / Observation / MedicationRequest
+# Week 1 – Patient / Observation / MedicationRequest
 
 https://hl7.org/fhir/
 
