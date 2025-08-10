@@ -1,0 +1,15 @@
+{
+  "resourceType": "Patient",
+  "id": "example-patient",
+  "identifier": [{
+    "system": "http://hospital.example.org/patients",
+    "value": "12345"
+  }],
+  "name": [{
+    "use": "official",
+    "family": "Kim",
+    "given": ["Goyeun"]
+  }],
+  "gender": "female",
+  "birthDate": "1990-05-01"
+}
