@@ -1,0 +1,20 @@
+{
+  "resourceType": "Observation",
+  "id": "example-observation",
+  "status": "final",
+  "code": {
+    "coding": [{
+      "system": "http://loinc.org",
+      "code": "85354-9",
+      "display": "Blood pressure panel with all children optional"
+    }]
+  },
+  "valueQuantity": {
+    "value": 120,
+    "unit": "mmHg"
+  },
+  "effectiveDateTime": "2024-08-10T09:00:00+00:00",
+  "subject": {
+    "reference": "Patient/example-patient"
+  }
+}
