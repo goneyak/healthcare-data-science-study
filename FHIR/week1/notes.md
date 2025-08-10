@@ -36,3 +36,7 @@
 - [patient.json](patient.json)
 - [observation.json](observation.json)
 - [medicationrequest.json](medicationrequest.json)
+
+
+## References
+https://www.youtube.com/watch?v=fv2xTR_0QnA&list=PLp4xNHWZ7IQkqH6bHsYVFkh1tX0P1_2VF&index=2
